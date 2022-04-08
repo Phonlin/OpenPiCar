@@ -2,4 +2,4 @@
 
 OpenPiCar.py 執行在 Raspberry Pi 之 Python 3.8 環境
 
-run.ino 為 Arduino IDE程式，可執行於 Arduino 開發版
+run.ino 為 Arduino IDE 程式，可執行於 Arduino 開發版
