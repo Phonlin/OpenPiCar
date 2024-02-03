@@ -1,12 +1,14 @@
-Raspberry Pi 執行 OpenCV，應用 Arduino Nano 之純視覺自駕車
+OpenPiCar
 ====
+Raspberry Pi 執行 OpenCV，應用 Arduino Nano 之純視覺自駕車
+
+OpenPiCar.py 執行在 Raspberry Pi 之 Python 3.8 環境
+
+run.ino 為 Arduino IDE 程式，可執行於 Arduino 開發版
 
 ![](./example/Drive.gif)
 
 [完整影片](https://drive.google.com/file/d/17_OAvOQTvfPxzX3tlLnaojhIOwBYyfLx/view?usp=drive_link)
-
-OpenPiCar.py 執行在 Raspberry Pi 之 Python 3.8 環境
-run.ino 為 Arduino IDE 程式，可執行於 Arduino 開發版
 
 OpenPiCar.py
 ----
