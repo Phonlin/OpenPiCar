@@ -6,7 +6,17 @@ OpenPiCar.py 執行在 Raspberry Pi 之 Python 3.8 環境
 
 run.ino 為 Arduino IDE 程式，可執行於 Arduino 開發版
 
+車輛
+----
+<img src="./example/20220405_182420.jpg" width="50%" height="50%">
+
+車輛行進
+----
 ![](./example/Drive.gif)
+
+程式執行畫面
+----
+<img src="./example/螢幕擷取畫面%202022-04-10%20204003.png" width="50%" height="50%">
 
 [完整影片](https://drive.google.com/file/d/17_OAvOQTvfPxzX3tlLnaojhIOwBYyfLx/view?usp=drive_link)
 
