@@ -16,7 +16,7 @@ run.ino 為 Arduino IDE 程式，可執行於 Arduino 開發版
 
 程式執行畫面
 ----
-<img src="./example/螢幕擷取畫面%202022-04-10%20204003.png" width="50%" height="50%">
+<img src="./example/螢幕擷取畫面%202022-04-10%20204003.png" width="100%" height="100%">
 
 [完整影片](https://drive.google.com/file/d/17_OAvOQTvfPxzX3tlLnaojhIOwBYyfLx/view?usp=drive_link)
 
