@@ -1,4 +1,4 @@
-本計畫為 Raspberry Pi 執行 OpenCV，應用 Arduino Nano 之純視覺自駕車
+Raspberry Pi 執行 OpenCV，應用 Arduino Nano 之純視覺自駕車
 ====
 
 ![](./example/Drive.gif)
